@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="action_settings">Settings</string>
+    <string name="nameRes">Welcome to Chaitanya\'s Restaurant</string>
+    <string name="menu">Menu</string>
+    <string name="contact">Contact Us</string>
+    <string name="website">Website</string>
+    <string name="pref">Preferences</string>
+    <string name="gallery">Gallery</string>
+    <string name="address">Address: </string>
+    <string name="ivy">6404 Ivy Lane, Suite 320</string>
+    <string name="greenbelt">Greenbelt, MD 20770</string>
+    <string name="map">Map It</string>
+    <string name="phone">Phone:</string>
+    <string name="number">(999) 999-9999</string>
+    <string name="textwebsite">Website</string>
+    <string name="share">Share</string>
+    <string name="animals">You hate Animals</string>
+    <string name="veg">Veg</string>
+    <string name="meat">Meat</string>
+    <string name="vegan">Vegan</string>
+    <string name="kosher">Kosher</string>
+    <string name="halal">Halal</string>
+    <string name="specials">Don\'t Send Me Specials</string>
+    <string name="allergies">Enter Your Allergies</string>
+    <string name="add">Add</string>
+    <string name="et_specials">Specials</string>
+    <string name="reset">Reset</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="priceCoffee">$4.99</string>
+    <string name="coffee">Coffee</string>
+    <string name="steak">Steak</string>
+    <string name="priceSteak">$21.99</string>
+    <string name="icecream">Ice Cream</string>
+    <string name="priceIce">$12.99</string>
+</resources>
